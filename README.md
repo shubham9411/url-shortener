@@ -13,7 +13,7 @@ User stories:
 ### Example output:
 ```
 {
-  "name": "profile.png",
-  "size": 2045
+  "original_url": "http://google.com",
+  "short_url": "hhttps://delicate-scene.glitch.me/23"
 }
 ```
