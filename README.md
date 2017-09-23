@@ -14,7 +14,7 @@ User stories:
 ### Example output:
 ```
 {
-  "original_url": "http://google.com",
-  "short_url": "hhttps://delicate-scene.glitch.me/23"
+  "original_url": "http://shubhampandey.in",
+  "short_url": "https://delicate-scene.glitch.me/BJv9fmViZ"
 }
 ```
