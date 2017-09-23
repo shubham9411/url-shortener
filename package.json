@@ -26,7 +26,8 @@
   "dependencies": {
     "express": "^4.15.4",
     "mongodb": "^2.2.31",
-    "valid-url": "^1.0.9"
+    "valid-url": "^1.0.9",
+    "mongodb": "^2.2.31"
   },
   "engines": {
     "node": "8.x"
