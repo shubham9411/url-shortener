@@ -1,0 +1,33 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "A microservice for shortening. Provide the user a much reliable tiny URL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9411/url-shortener.git"
+  },
+  "keywords": [
+    "url-shortener",
+    "tiny",
+    "url",
+    "free-code-camp"
+  ],
+  "author": "Shubham Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham9411/url-shortener/issues"
+  },
+  "homepage": "https://github.com/shubham9411/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
